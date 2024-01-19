@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(60,20,60);
+}
+
+#trailer {
+  height: 50px;
+  width: 50px;
+  background-color: white;
+  border-radius: 50px;
+  
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: 10000
+    
+  pointer-events: none;
+}
+
+p {
+  text-align: center;
+}
